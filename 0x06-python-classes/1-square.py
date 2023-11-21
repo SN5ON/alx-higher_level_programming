@@ -9,4 +9,3 @@ class Square:
         """Initialize of a function with parameter size"""
 
         self.__size = size
-
