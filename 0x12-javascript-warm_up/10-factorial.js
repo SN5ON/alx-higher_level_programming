@@ -7,4 +7,3 @@ function factorial (n) {
   }
 }
 console.log(factorial(process.argv[2]));
-
